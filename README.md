@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
 ![GO](https://img.shields.io/badge/-GO-222222?style=flat&logo=go)
-![NodeJS](https://img.shields.io/badge/-nodejs-222222?style=flat&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-nodejs-222222?style=flat&logo=node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter)
 <hr/>
 
@@ -26,7 +26,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-![Kubernates](https://img.shields.io/badge/-Kubernates-222222.svg?style=flat&logo=kubernates)
+![Kubernates](https://img.shields.io/badge/-Kubernates%20(Low)-222222.svg?style=flat&logo=kubernates)
+![ReactJS](https://img.shields.io/badge/-ReactJS-222222.svg?style=flat&logo=react)
+![N8N](https://img.shields.io/badge/-N8N-222222.svg?style=flat&logo=n8n)
 <hr/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IGA)
